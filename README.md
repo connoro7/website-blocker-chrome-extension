@@ -4,9 +4,10 @@
 
 ## Todo
 
-- Add extension icon
-- Add functionality for dynamically replacing distracting content on different sites
-- Add hamburger menu on extension icon
-    - Add functionality for adding/removing blocked sites to hamburger menu
+- 👁️ Add extension icon
+- 📖 Add functionality for dynamically replacing distracting content on different sites
+- 🍔 Add hamburger menu on extension icon
+    - 💾 Add functionality for adding/removing blocked sites to hamburger menu
+- ❌ Remove jQuery 
 - ...
-- Publish to Chrome web store
+- 📢 Publish to Chrome web store
