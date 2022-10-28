@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "build": "open http://reload.extensions/",
-    "watch": "watch 'npm run build' ./"
+    "watch": "watch 'npm run build' ./index.js"
   },
   "author": "Connor Dillon",
   "license": "ISC",
