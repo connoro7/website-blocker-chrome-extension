@@ -35,10 +35,6 @@ main > * {
   display: flex;
   justify-content: center;
   align-items: center;
-
-  /* margin: 4px 2px;
-  padding: 15px 32px; */
-
   background-color: hsla(0, 0%, 100%, 0.209);
   border: none;
   color: white;
