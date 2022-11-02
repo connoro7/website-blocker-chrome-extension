@@ -1,3 +1,4 @@
+import 'whatwg-fetch'
 // Adds style.css to the document <head>
 window.addEventListener(
   'load',
