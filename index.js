@@ -1,4 +1,6 @@
-import 'whatwg-fetch'
+// import { fetch } from 'whatwg-fetch'; // import the fetch API
+// import dotenv from 'dotenv'
+
 // Adds style.css to the document <head>
 window.addEventListener(
   'load',
