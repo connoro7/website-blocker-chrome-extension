@@ -6,7 +6,7 @@
   "scripts": {
     "reload": "open http://reload.extensions/",
     "watch": "watch 'npm run reload' ./index.js",
-    "bundle": "browserify index.js -o bundle.js"
+    "bundle": "browserify indexDev.js -o index.js"
   },
   "author": "Connor Dillon",
   "license": "ISC",
